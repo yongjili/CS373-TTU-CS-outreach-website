@@ -6,7 +6,7 @@ http://sourceforge.net/projects/xampp/files/latest/download
 2. Start XAMPP Control Panel (Apache and MySQL options must be started) *.
 3. Copy the folder “CS_Outreach” from the source to “C:\xampp\htdocs” assuming that XAMPP is installed on your local C drive. The link to download source code from the
 dropbox:
-https://www.dropbox.com/sh/97ok3xwng3vls7u/AACmqrrGZlxaNLkSGAXzJBU9a?dl=0
+https://github.com/yongjili/CS5373-TTU-CS-outreach-website
 4. Create a database called "cs" and table called "new_student" where the table will have six columns called “name”, “age”, “email”, “username”, “password” and “gender” with email as the primary key. If you have trouble making a MySQL database please watch this tutorial: https://www.youtube.com/watch?v=ueWpNe0PG34
 5. In the web browser, go to "http://localhost/xampp" assuming that you are using the default port i.e. 80. The XAMPP homepage should open.
 6. In the same browser, enter: http://localhost/CS_Outreach/home.php you should be able to see the homepage on your browser.
